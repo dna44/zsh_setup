@@ -7,4 +7,6 @@ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - 
 
 chsh -s `which zsh`
 
-shutdown -r 0
+#shutdown -r 0
+
+print Reboot for changes to take effect.
